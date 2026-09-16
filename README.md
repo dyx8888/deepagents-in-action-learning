@@ -1,2 +1,11 @@
-# deepagents-in-action-learning
-Deep Agents 实战笔记、实验记录
+# Deep Agents 实战学习笔记
+
+这是我学习 Datawhale《Deep Agents 实战》的公开记录，内容包括个人理解、环境验证、代码运行结果与踩坑记录。
+
+## 学习记录
+
+| 任务 | 内容 | 状态 | 笔记 |
+|---|---|---|---|
+| Task1 | 环境准备与 Agent Harness 基础 | 已完成 | [阅读 Task1 原创笔记](notes/task1-agent-harness.md) |
+
+> 课程：`deepagents-in-action`；学习群：二群。
