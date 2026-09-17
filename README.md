@@ -6,6 +6,6 @@
 
 | 任务 | 内容 | 状态 | 笔记 |
 |---|---|---|---|
-| Task1 | 环境准备与 Agent Harness 基础 | 已完成 | [阅读 Task1 原创笔记](notes/task1-agent-harness.md) |
+| Task1 | 环境准备、Agent Harness、第一个 Deep Agent 与工具调用基础 | 已完成 | [阅读 Task1 原创笔记](notes/task1-agent-harness.md) |
 
 > 课程：`deepagents-in-action`；学习群：二群。
